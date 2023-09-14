@@ -1,6 +1,6 @@
 ![wink](https://github.com/fogbender/b2b-saaskit/assets/41166/4f00bef4-8db5-4568-9fe5-bcbfe08619a5)
 
-# Welcome to the B2B SaaS Kit!
+# Welcome to the B2B SaaS Kit
 
 The B2B SaaS Kit is an open-source starter toolkit for developers looking to quickly stand up a SaaS product where the customer can be a team of users (i.e., a business).
 
