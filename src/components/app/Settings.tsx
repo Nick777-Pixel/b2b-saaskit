@@ -323,7 +323,7 @@ export function Settings() {
 												}
 											}}
 										>
-											Subscribe for $69/month
+											Subscribe for $4.99/month
 										</button>
 										{(subscriptions?.length || 0) > 0 && (
 											<div className="flex flex-col gap-4">
